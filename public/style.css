@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: rgb(172, 185, 164);
+  font-family: Geneva;
+  margin-left: auto;
+  margin-right: auto;
+  color: rgb(244, 243, 231)
+}
+
+h1 {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul {
+  list-style-type: none;
+  position: relative;
+  left: 450px;
+  margin-bottom: 0;
+}
+
+
+li {
+  text-align: left;
+
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: rgb(244, 243, 231);
+  padding: 5px;
+  border: solid 2px;
+  border-radius: 10px;
+}
